@@ -21,4 +21,3 @@ def problem(n_people, sitting) :
     return count
 
 print(problem(people, sitting_min))
-    

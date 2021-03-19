@@ -13,5 +13,5 @@ def fibonacci(n) :
     else :
         return fibonacci(n-1) + fibonacci(n-2)
     
-print("fibonacci(1): ", fibonacci(10))
+print("fibonacci(10): ", fibonacci(10))
 print("fibonacci(10)계산에 활용된 덧셈 횟수는 {}번입니다".format(counter))
