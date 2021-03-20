@@ -1,5 +1,5 @@
 # 반복문으로 파일 한 줄씩 읽기
-with open("/workspace/ROKA_Python/2021_03/03_20/info.txt", "r") as file :
+with open("info.txt", "r") as file :
     for line in file :
         (name, weight, height) = line.strip().split(", ")
         # 데이터가 문제가 없는지 확인합니다 : 문제가 있으면 지나감
