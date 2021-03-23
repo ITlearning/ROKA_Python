@@ -8,6 +8,10 @@
 파이썬 기록 : https://itlearning.tistory.com/
 
 * * * 
+### 예외 링크
+개발자 커뮤니티 : https://okky.kr/
+
+* * *
 
 ##### Chapter 01
 
